@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import '../presentation/main_profile\_screen/main_profile_screen.dart';
+import '../presentation/main_profile_two_screen/main_profile_screen.dart';
 
 class AppRoutes {
   static const String mainProfileScreen = '/main_profile_page';
